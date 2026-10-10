@@ -2,3 +2,8 @@
 __pycache__/
 *.py[cod]
 house_price_model.joblib
+indian_house_price_model.joblib
+.env
+node_modules/
+dist/
+.pytest_cache/
